@@ -13,13 +13,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="C:\Users\Chintan Shah\OneDrive - Promact Infotech Pvt Ltd\Pictures\1267213_577149875682840_87122952_o_400x400.jpg">
-      <Pack>True</Pack>
-      <PackagePath>\</PackagePath>
-    </None>
-  </ItemGroup>
-
-  <ItemGroup>
     <None Update="README.md">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
