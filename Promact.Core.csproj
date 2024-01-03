@@ -6,8 +6,7 @@
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Title>Promact.Core</Title>
     <Description>Core package for Promact Utility implementation</Description>
-    <PackageProjectUrl>https://github.com/Promact/Core</PackageProjectUrl>
-    <PackageIcon>1267213_577149875682840_87122952_o_400x400.jpg</PackageIcon>
+    <PackageProjectUrl>https://github.com/Promact/Core</PackageProjectUrl>    
     <RepositoryUrl>https://github.com/Promact/Core</RepositoryUrl>
     <PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
