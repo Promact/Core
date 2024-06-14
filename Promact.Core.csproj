@@ -9,6 +9,7 @@
     <PackageProjectUrl>https://github.com/Promact/Core</PackageProjectUrl>    
     <RepositoryUrl>https://github.com/Promact/Core</RepositoryUrl>
     <PackageReadmeFile>README.md</PackageReadmeFile>
+    <AssemblyVersion>1.0.0.1</AssemblyVersion>
   </PropertyGroup>
 
   <ItemGroup>
