@@ -2,6 +2,6 @@
 {
     public interface ICachingUniqueKeyGenerationService
     {
-        string GenerateUniqueKey(string key);
+        string GenerateUniqueKey(string key, string[] args);
     }
 }
